@@ -19,7 +19,7 @@ A small collection of [output styles](https://code.claude.com/docs/en/output-sty
 
 The concise-by-default rules are kind to your attention first. Trimming Claude's output is a welcome side effect, not the point.
 
-Three so far: **Attention-kind** (the flagship), **Spartan** (terse, zero warmth), and **Rundown** (TL;DR briefings). Each has its own section below.
+Three upstream: **Attention-kind** (the flagship), **Spartan** (terse, zero warmth), and **Rundown** (TL;DR briefings). Each has its own section below. This fork adds a fourth, local-only style: **Iceberg** (state of the world, then the action, detail only on request).
 
 ## Attention-kind
 
